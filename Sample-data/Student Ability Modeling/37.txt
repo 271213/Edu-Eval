@@ -1,0 +1,24 @@
+studentId: 37
+历史交互（按时间顺序，仅展示最近 20 次）：
+skill: percent-of, correct: 0, timeTaken: 6.0 s, hint: 1
+skill: algebraic-manipulation, correct: 0, timeTaken: 11.0 s, hint: 1
+skill: percent-of, correct: 0, timeTaken: 11.0 s, hint: 0
+skill: percent-of, correct: 0, timeTaken: 14.0 s, hint: 0
+skill: percent-of, correct: 1, timeTaken: 16.0 s, hint: 0
+skill: subtraction, correct: 1, timeTaken: 16.0 s, hint: 0
+skill: pattern-finding, correct: 1, timeTaken: 27.0 s, hint: 0
+skill: subtraction, correct: 0, timeTaken: 28.0 s, hint: 0
+skill: subtraction, correct: 0, timeTaken: 29.0 s, hint: 1
+skill: pattern-finding, correct: 0, timeTaken: 32.0 s, hint: 1
+skill: algebraic-manipulation, correct: 0, timeTaken: 40.0 s, hint: 1
+skill: percent-of, correct: 0, timeTaken: 44.0 s, hint: 0
+skill: algebraic-manipulation, correct: 0, timeTaken: 46.0 s, hint: 1
+skill: percent-of, correct: 1, timeTaken: 49.0 s, hint: 0
+skill: algebraic-manipulation, correct: 0, timeTaken: 52.0 s, hint: 1
+skill: percent-of, correct: 0, timeTaken: 56.0 s, hint: 0
+skill: subtraction, correct: 0, timeTaken: 70.0 s, hint: 1
+skill: division, correct: 1, timeTaken: 72.0 s, hint: 0
+skill: percent-of, correct: 0, timeTaken: 98.0 s, hint: 1
+skill: percent-of, correct: 0, timeTaken: 192.0 s, hint: 1
+固定情绪概率（AveCarelessness:0.0461832281578949,AveResBored:0.3263837139256189,AveResEngcon:0.653444643024794,AveResConf:0.125324701809917,AveResFrust:0.09471427707438,AveResOfftask:0.4514670396528929,AveResGaming:0.016241102479339.）
+下一题：skill: percent-of

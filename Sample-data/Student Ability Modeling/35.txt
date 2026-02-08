@@ -1,0 +1,24 @@
+studentId: 35
+历史交互（按时间顺序，仅展示最近 20 次）：
+skill: square-root, correct: 1, timeTaken: 6.0 s, hint: 0
+skill: square-root, correct: 1, timeTaken: 6.0 s, hint: 0
+skill: pattern-finding, correct: 1, timeTaken: 7.0 s, hint: 0
+skill: pattern-finding, correct: 1, timeTaken: 9.0 s, hint: 0
+skill: square-root, correct: 0, timeTaken: 11.0 s, hint: 1
+skill: square-root, correct: 1, timeTaken: 13.0 s, hint: 0
+skill: pattern-finding, correct: 1, timeTaken: 19.0 s, hint: 0
+skill: square-root, correct: 0, timeTaken: 22.0 s, hint: 1
+skill: pattern-finding, correct: 1, timeTaken: 24.0 s, hint: 0
+skill: proportion, correct: 1, timeTaken: 28.0 s, hint: 0
+skill: reading-graph, correct: 1, timeTaken: 30.0 s, hint: 0
+skill: equation-solving, correct: 1, timeTaken: 30.0 s, hint: 0
+skill: proportion, correct: 0, timeTaken: 40.0 s, hint: 1
+skill: square-root, correct: 0, timeTaken: 55.0 s, hint: 1
+skill: proportion, correct: 1, timeTaken: 57.0 s, hint: 0
+skill: pattern-finding, correct: 0, timeTaken: 58.0 s, hint: 0
+skill: square-root, correct: 1, timeTaken: 70.0 s, hint: 0
+skill: square-root, correct: 0, timeTaken: 122.0 s, hint: 0
+skill: pattern-finding, correct: 0, timeTaken: 130.0 s, hint: 0
+skill: multiplication, correct: 1, timeTaken: 135.0 s, hint: 0
+固定情绪概率（AveCarelessness:0.158848224740547,AveResBored:0.222795805995973,AveResEngcon:0.6500790584471321,AveResConf:0.069987405180262,AveResFrust:0.164347458996979,AveResOfftask:0.153146586408862,AveResGaming:0.236799637083586.）
+下一题：skill: pattern-finding

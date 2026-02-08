@@ -1,0 +1,24 @@
+studentId: 101
+历史交互（按时间顺序，仅展示最近 20 次）：
+skill: probability, correct: 0, timeTaken: 6.0 s, hint: 1
+skill: probability, correct: 0, timeTaken: 8.0 s, hint: 0
+skill: probability, correct: 0, timeTaken: 12.0 s, hint: 0
+skill: probability, correct: 0, timeTaken: 12.0 s, hint: 0
+skill: probability, correct: 0, timeTaken: 13.0 s, hint: 0
+skill: probability, correct: 0, timeTaken: 14.0 s, hint: 0
+skill: probability, correct: 0, timeTaken: 16.0 s, hint: 0
+skill: probability, correct: 0, timeTaken: 25.0 s, hint: 0
+skill: probability, correct: 1, timeTaken: 27.0 s, hint: 0
+skill: probability, correct: 0, timeTaken: 27.0 s, hint: 1
+skill: probability, correct: 0, timeTaken: 36.0 s, hint: 0
+skill: probability, correct: 0, timeTaken: 47.0 s, hint: 0
+skill: making-sense-of-expressions-and-equations, correct: 0, timeTaken: 48.0 s, hint: 0
+skill: probability, correct: 0, timeTaken: 57.0 s, hint: 0
+skill: probability, correct: 0, timeTaken: 69.0 s, hint: 0
+skill: making-sense-of-expressions-and-equations, correct: 1, timeTaken: 106.0 s, hint: 0
+skill: probability, correct: 0, timeTaken: 132.0 s, hint: 0
+skill: probability, correct: 0, timeTaken: 172.0 s, hint: 0
+skill: probability, correct: 1, timeTaken: 213.0 s, hint: 0
+skill: percent-of, correct: 1, timeTaken: 727.0 s, hint: 0
+固定情绪概率（AveCarelessness:0.117634243226804,AveResBored:0.252399041576141,AveResEngcon:0.6192360599492379,AveResConf:0.123829171035533,AveResFrust:0.241242808593909,AveResOfftask:0.195610843190355,AveResGaming:0.069792693314721.）
+下一题：skill: probability

@@ -1,0 +1,24 @@
+studentId: 33
+历史交互（按时间顺序，仅展示最近 20 次）：
+skill: noskill, correct: 0, timeTaken: 12.0 s, hint: 1
+skill: noskill, correct: 1, timeTaken: 12.0 s, hint: 0
+skill: noskill, correct: 1, timeTaken: 13.0 s, hint: 0
+skill: area, correct: 1, timeTaken: 16.0 s, hint: 0
+skill: noskill, correct: 0, timeTaken: 16.0 s, hint: 0
+skill: noskill, correct: 1, timeTaken: 20.0 s, hint: 0
+skill: noskill, correct: 0, timeTaken: 27.0 s, hint: 0
+skill: noskill, correct: 1, timeTaken: 31.0 s, hint: 0
+skill: pythagorean-theorem, correct: 1, timeTaken: 34.0 s, hint: 0
+skill: noskill, correct: 1, timeTaken: 36.0 s, hint: 0
+skill: noskill, correct: 1, timeTaken: 55.0 s, hint: 0
+skill: venn-diagram, correct: 1, timeTaken: 56.0 s, hint: 0
+skill: noskill, correct: 1, timeTaken: 74.0 s, hint: 0
+skill: area, correct: 1, timeTaken: 78.0 s, hint: 0
+skill: equation-concept, correct: 1, timeTaken: 147.0 s, hint: 0
+skill: noskill, correct: 1, timeTaken: 177.0 s, hint: 0
+skill: area, correct: 0, timeTaken: 179.0 s, hint: 0
+skill: noskill, correct: 0, timeTaken: 183.0 s, hint: 0
+skill: noskill, correct: 0, timeTaken: 201.0 s, hint: 0
+skill: noskill, correct: 1, timeTaken: 430.0 s, hint: 0
+固定情绪概率（AveCarelessness:0.202787468885714,AveResBored:0.26042619135503,AveResEngcon:0.650768677065089,AveResConf:0.059971193420118,AveResFrust:0.061834160005917,AveResOfftask:0.296286221301775,AveResGaming:0.0109538725917159.）
+下一题：skill: noskill

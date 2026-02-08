@@ -1,0 +1,24 @@
+studentId: 77
+历史交互（按时间顺序，仅展示最近 20 次）：
+skill: interpreting-linear-equations, correct: 0, timeTaken: 3.0 s, hint: 0
+skill: interpreting-linear-equations, correct: 0, timeTaken: 4.0 s, hint: 0
+skill: interpreting-linear-equations, correct: 1, timeTaken: 9.0 s, hint: 0
+skill: square-root, correct: 0, timeTaken: 13.0 s, hint: 1
+skill: interpreting-linear-equations, correct: 0, timeTaken: 14.0 s, hint: 0
+skill: interpreting-linear-equations, correct: 1, timeTaken: 15.0 s, hint: 0
+skill: interpreting-linear-equations, correct: 0, timeTaken: 17.0 s, hint: 0
+skill: interpreting-linear-equations, correct: 0, timeTaken: 21.0 s, hint: 1
+skill: square-root, correct: 1, timeTaken: 27.0 s, hint: 0
+skill: interpreting-linear-equations, correct: 0, timeTaken: 45.0 s, hint: 1
+skill: square-root, correct: 1, timeTaken: 58.0 s, hint: 0
+skill: interpreting-linear-equations, correct: 0, timeTaken: 61.0 s, hint: 1
+skill: interpreting-linear-equations, correct: 0, timeTaken: 108.0 s, hint: 0
+skill: square-root, correct: 1, timeTaken: 109.0 s, hint: 0
+skill: square-root, correct: 0, timeTaken: 138.0 s, hint: 1
+skill: interpreting-linear-equations, correct: 0, timeTaken: 143.0 s, hint: 1
+skill: interpreting-linear-equations, correct: 1, timeTaken: 146.0 s, hint: 0
+skill: square-root, correct: 0, timeTaken: 175.0 s, hint: 0
+skill: square-root, correct: 0, timeTaken: 226.0 s, hint: 1
+skill: square-root, correct: 1, timeTaken: 260.0 s, hint: 0
+固定情绪概率（AveCarelessness:0.094195371436664,AveResBored:0.261455246025236,AveResEngcon:0.6386360259652989,AveResConf:0.063971248268139,AveResFrust:0.129858194952681,AveResOfftask:0.234331232876972,AveResGaming:0.045096384116719.）
+下一题：skill: interpreting-linear-equations
