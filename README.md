@@ -35,6 +35,10 @@ Our comprehensive evaluation of 8 mainstream MLLM series (including Claude 3.7, 
 2.  **Conservative Behavior in Higher-Order Tasks:** MLLMs excel at surface-level, memorization-based tasks but consistently fail at true reasoning and generating high-level ("Create") cognitive questions.
 3.  **Domain-Specific Advantages:** Smaller parameter education-specific models (e.g., Spark) perform on par with or surpass general-purpose models in specialized educational tasks.
 
+
+## 📧 Contact
+If you are interested in this project, please feel free to contact me at [815913574@qq.com](mailto:815913574@qq.com).
+
 ## 🚀 Quick Start
 
 ## 📝 Citation
