@@ -37,3 +37,12 @@ Our comprehensive evaluation of 8 mainstream MLLM series (including Claude 3.7, 
 
 ## 🚀 Quick Start
 
+## 📝 Citation
+@inproceedings{duan2026edueval,
+  title={Edu-Eval: A Large-Scale Multimodal Benchmark for MLLMs in Authentic Educational Scenarios},
+  author={Duan, Zhiyi and Guan, Jiangshan and Xing, Qianli},
+  booktitle={Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  year={2026},
+  publisher={ACM},
+  doi={10.1145/3770855.3817503}
+}
