@@ -4,15 +4,15 @@
 [![Paper](https://img.shields.io/badge/Paper-KDD%202026-blue)](#)
 [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](#)
 
-> This is the official repository for the KDD 2026 paper: **Edu-Eval: A Large-Scale Multimodal Benchmark for MLLMs in Authentic Educational Scenarios**[cite: 22].
+> This is the official repository for the KDD 2026 paper: **Edu-Eval: A Large-Scale Multimodal Benchmark for MLLMs in Authentic Educational Scenarios**.
 
 ## 📖 Introduction
-The modern classroom is an inherently multimodal environment, rich with the teacher's speech, student expressions, and interactive instructional resources[cite: 8]. [cite_start]However, existing benchmarks primarily test Multimodal Large Language Models (MLLMs) as *students* rather than as *assistants*[cite: 10]. 
+The modern classroom is an inherently multimodal environment, rich with the teacher's speech, student expressions, and interactive instructional resources. However, existing benchmarks primarily test Multimodal Large Language Models (MLLMs) as *students* rather than as *assistants*. 
 
-To fill this critical gap, we introduce **Edu-Eval**, the first large-scale benchmark focused on **educational scenario-centric evaluation**[cite: 11]. [cite_start]Constructed from over 3,000 real-world scenarios, Edu-Eval comprises 75,900 annotated samples designed to comprehensively assess the entire pedagogical process[cite: 13, 52].
+To fill this critical gap, we introduce **Edu-Eval**, the first large-scale benchmark focused on **educational scenario-centric evaluation**. Constructed from over 3,000 real-world scenarios, Edu-Eval comprises 75,900 annotated samples designed to comprehensively assess the entire pedagogical process.
 
 ## 🎯 The Teacher-Student-Resource Framework
-Inspired by educational theories, we computationally operationalize abstract pedagogical concepts into nine concrete evaluation tasks across three core pillars[cite: 12, 50, 51]:
+Inspired by educational theories, we computationally operationalize abstract pedagogical concepts into nine concrete evaluation tasks across three core pillars:
 
 ### 🧑‍🏫 Teacher Dimension
 * **Teacher Behavior Understanding (TBU):** Evaluates spatial modeling and recognition of 10 in-class behaviors across 7,000 video samples.
