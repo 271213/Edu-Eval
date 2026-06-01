@@ -1,8 +1,8 @@
 # Edu-Eval: A Large-Scale Multimodal Benchmark for MLLMs in Authentic Educational Scenarios
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-[![Paper](https://img.shields.io/badge/Paper-KDD%202026-blue)](#)
-[![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](#)
+[![Paper]()](#)
+[![Dataset]()](#)
 
 > This is the official repository for the KDD 2026 paper: **Edu-Eval: A Large-Scale Multimodal Benchmark for MLLMs in Authentic Educational Scenarios**.
 
