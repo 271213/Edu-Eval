@@ -2,9 +2,10 @@
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![Paper]()](#)
-[![Dataset](https://pan.baidu.com/s/1gPKmNeV7hQBJWpYWkp3G_w?pwd=uqg1)](#)
+[![Dataset]()](#)
 
 > This is the official repository for the KDD 2026 paper: **Edu-Eval: A Large-Scale Multimodal Benchmark for MLLMs in Authentic Educational Scenarios**.
+**Dataset**https://pan.baidu.com/s/1gPKmNeV7hQBJWpYWkp3G_w?pwd=uqg1
 
 ## 📖 Introduction
 The modern classroom is an inherently multimodal environment, rich with the teacher's speech, student expressions, and interactive instructional resources. However, existing benchmarks primarily test Multimodal Large Language Models (MLLMs) as *students* rather than as *assistants*. 
