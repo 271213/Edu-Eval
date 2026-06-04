@@ -5,7 +5,7 @@
 [![Dataset]()](#)
 
 > This is the official repository for the KDD 2026 paper: **Edu-Eval: A Large-Scale Multimodal Benchmark for MLLMs in Authentic Educational Scenarios**.
-**Dataset**https://pan.baidu.com/s/1gPKmNeV7hQBJWpYWkp3G_w?pwd=uqg1
+**Dataset**https://pan.baidu.com/s/1gPKmNeV7hQBJWpYWkp3G_w
 
 ## 📖 Introduction
 The modern classroom is an inherently multimodal environment, rich with the teacher's speech, student expressions, and interactive instructional resources. However, existing benchmarks primarily test Multimodal Large Language Models (MLLMs) as *students* rather than as *assistants*. 
