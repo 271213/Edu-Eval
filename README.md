@@ -38,7 +38,7 @@ Our comprehensive evaluation of 8 mainstream MLLM series (including Claude 3.7, 
 
 
 ## 📧 Contact
-If you are interested in this project, please feel free to contact me at [815913574@qq.com](mailto:815913574@qq.com).
+If you are interested in this project, please feel free to contact me at [32409140@mail.imu.edu.cn](mailto:32409140@mail.imu.edu.cn).
 
 ## 🚀 Quick Start
 
